@@ -7,3 +7,5 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 ![alt text](https://github.com/MohamedMostafa1997/Wrangle_and_Analyze_Data/blob/main/5.jpg)
+
+# the reports (wrangle_report.pdf , act_report.pdf ) wil explain about project more
